@@ -1,0 +1,4 @@
+Selenium 
+Wybrać 2 strony/aplikacje webowe
+Przygotować 2 scenariusze testów (opisowe), zamieścić scenariusze w pliku readme.md w repozytorium
+Napisać testy oparte na tych scenariuszach (użyć co najmniej dwóch różnych przeglądarek)
